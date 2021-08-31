@@ -1,0 +1,25 @@
+.dz-started .dz-default.dz-message {
+    display: inline-block !important;
+}
+.dz-started .dz-default.dz-message p,
+.dz-started .dz-default.dz-message h3{
+	display: none;	
+}
+
+.dz-started .dz-default.dz-message .add_new{
+	display: none;
+}
+.dz-started .dz-default.dz-message .add_more{
+	display: inline-block;
+}
+.dz-default.dz-message .add_more{
+	display: none;
+}
+.dz-started .dz-default.dz-message {
+    margin: 16px 0 0 0;
+    padding: 37px 29px;
+    border: 1px dashed #ccc;
+    border-radius: 6px;
+    width: 220px;
+    height: 220px;
+}
